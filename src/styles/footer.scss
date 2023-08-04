@@ -1,0 +1,19 @@
+.footer {
+  width: 375px;
+  height: 834px;
+  position: static;
+  bottom: 0;
+  background: var(--dark-grey, #242424);
+}
+
+@media (min-width: 768px) {
+  .footer {
+    width: 768px;
+    height: 806px;
+  }
+}
+
+// @media (min-width: 1440px) {
+//   .footer {
+//   }
+// }

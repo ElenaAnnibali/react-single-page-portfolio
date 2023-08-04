@@ -1,0 +1,15 @@
+@import './styles/portfolio';
+@import './styles/footer';
+
+@font-face {
+  font-family: 'Space Grotesk';
+  src: url('../../fonts/SpaceGrotesk-VariableFont_wght.ttf') format('truetype');
+  font-style: normal;
+}
+
+body {
+  font-family: 'Space Grotesk', sans-serif;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
